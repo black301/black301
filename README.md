@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG45NDE0eHNseG1zcGRqaWQzeW10bDVyamVrMzdueHJhNGw0cmRmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
@@ -31,14 +27,18 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/black301/black301/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG45NDE0eHNseG1zcGRqaWQzeW10bDVyamVrMzdueHJhNGw0cmRmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+</div>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/black301/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/black301/black301/output/snake.svg" alt="Snake animation" />
 
 ###
