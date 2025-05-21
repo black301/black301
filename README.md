@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=black301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=black301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-black301.vercel.app/api?username=black301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-black301.vercel.app/api/top-langs?username=black301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="ali.essam.abdelhaleem.20@gmail.com" target="_blank">
+  <a href="mailto:ali.essam.abdelhaleem.20@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ali-essam-elrhawy/" target="_blank">
@@ -54,5 +54,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/black301/count.svg?"  />
 </div>
-
-###
